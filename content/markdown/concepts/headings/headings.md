@@ -45,9 +45,11 @@ Alternatively, on the line below the text:
 - Add any number or `--` characters for heading level 2.
 
 ```markdown
-# Heading level 1
+Heading level 1
+===============
 
-## Heading level 2
+Heading level 2
+---------------
 ```
 
 ## Best Practices
